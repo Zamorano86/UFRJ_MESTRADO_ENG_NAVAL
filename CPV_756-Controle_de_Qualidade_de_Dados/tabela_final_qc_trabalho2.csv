@@ -1,0 +1,4 @@
+Variável,Registros válidos,Ausências,Fora da faixa,Spikes,Flat Line,Outliers IQR,% sinalizado sem ausências,% outliers IQR
+Vento,7401,3549,2,34,41,14,1.0133765707336846,0.18916362653695445
+Temperatura,7401,3549,2,215,89,16,4.107553033373868,0.2161870017565194
+Hs,7401,3549,14,156,98,402,3.56708552898257,5.43169841913255

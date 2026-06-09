@@ -1,0 +1,4 @@
+variavel,N_validos,N_fora_faixa,N_spikes,N_flatline,N_sinalizados_sem_ausencia,%_sinalizados_sobre_validos
+vento,7401,2,34,41,75,1.0133765707336846
+temp_ar,7401,2,215,89,304,4.107553033373868
+hs,7401,14,156,98,264,3.56708552898257
