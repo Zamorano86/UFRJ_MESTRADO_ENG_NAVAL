@@ -1,0 +1,13 @@
+﻿Região,Profundidade [m],Temperatura [°C],Salinidade [psu],Pressão [dbar],Densidade [kg/m³],Velocidade do som [m/s],Situação
+Costa Norte 2025 Antares,80.0,27.581,36.138,80.46,1023.732,1542.7,Disponível
+Costa Norte 2025 Antares,200.0,19.623,36.366,201.21,1026.785,1525.19,Disponível
+Costa Norte 2025 Antares,2000.0,3.557,34.967,2020.8,1037.042,1497.78,Disponível
+Nordeste Cruzeiro do Sul,80.0,25.924,36.813,80.58,1024.773,1539.68,Disponível
+Nordeste Cruzeiro do Sul,200.0,13.044,35.235,201.52,1027.469,1503.9,Disponível
+Nordeste Cruzeiro do Sul,2000.0,3.48,34.956,2023.94,1037.058,1497.5,Disponível
+Oceano Sudeste,80.0,23.17,37.001,80.52,1025.752,1533.25,Disponível
+Oceano Sudeste,200.0,19.432,36.202,201.37,1026.71,1524.48,Disponível
+Oceano Sudeste,2000.0,3.559,34.955,2022.41,1037.039,1497.8,Disponível
+Oceano Sul V,80.0,20.468,36.151,80.57,1025.869,1525.28,Disponível
+Oceano Sul V,200.0,16.253,35.665,201.47,1027.092,1514.61,Disponível
+Oceano Sul V,2000.0,,,,,,Fora da faixa observada

@@ -1,0 +1,447 @@
+﻿Região,Data-Hora,Latitude [deg],Longitude [deg],numero_pontos,profundidade_min,profundidade_max,n_temperatura,n_salinidade,n_condutividade,n_densidade,n_velocidade_som,arquivo_parquet,tem_temperatura,tem_salinidade,tem_condutividade,tem_densidade,tem_velocidade_som,tem_TS,tem_TS_densidade,tem_TS_velocidade,pontuacao
+Costa Norte 2025 Antares,2025-10-09 04:26:47,1.9064,-47.2858,762,5.2,82.6,762,762,0,762,0,costa_norte_2025_antares.parquet,True,True,False,True,False,True,True,False,41.63725803128446
+Costa Norte 2025 Antares,2025-10-09 09:25:22,2.245,-46.9933,1491,5.0,1495.0,1491,1491,1348,1491,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.3078727807637
+Costa Norte 2025 Antares,2025-10-09 14:59:29,2.5767,-46.6833,1478,5.0,1482.0,1478,1478,1327,1478,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.2991214627108
+Costa Norte 2025 Antares,2025-10-09 19:58:50,2.9006,-46.3892,1548,5.0,1552.0,1548,1548,1405,1548,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.34536484041687
+Costa Norte 2025 Antares,2025-10-10 00:47:17,2.245,-46.08,1829,5.0,1833.0,1829,1829,1677,1829,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.512071245835465
+Costa Norte 2025 Antares,2025-10-10 05:33:35,3.5817,-45.7833,2266,1.0,2266.0,2266,2266,2103,2266,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.72621265050753
+Costa Norte 2025 Antares,2025-10-10 10:38:36,3.9133,-45.48,2158,3.0,2160.0,2158,2158,1986,2158,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.67740043051481
+Costa Norte 2025 Antares,2025-10-10 15:37:32,4.2494,-45.1756,1994,1.0,1994.0,1994,1994,1854,1994,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.59839932932397
+Costa Norte 2025 Antares,2025-10-10 22:01:27,4.5833,-44.8717,852,5.0,856.0,852,852,754,852,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,56.74875954749168
+Costa Norte 2025 Antares,2025-10-11 02:38:55,4.9183,-44.5767,1937,1.0,1937.0,1937,1937,1819,1937,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.56941179245071
+Costa Norte 2025 Antares,2025-10-11 08:58:03,5.2517,-44.27,2194,2.0,2195.0,2194,2194,2095,2194,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.693937325509275
+Costa Norte 2025 Antares,2025-10-11 13:13:03,5.5886,-43.9697,2036,7.0,2042.0,2036,2036,1964,2036,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.619233416226805
+Costa Norte 2025 Antares,2025-10-11 17:29:38,5.925,-43.67,2139,1.0,2139.0,2139,2139,2014,2139,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.66856110801589
+Costa Norte 2025 Antares,2025-10-11 21:50:14,6.255,-43.3717,2185,1.0,2185.0,2185,2185,2131,2185,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.68982866873648
+Costa Norte 2025 Antares,2025-10-12 02:23:25,6.5928,-43.0653,2137,2.0,2138.0,2137,2137,2087,2137,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.66762609158499
+Costa Norte 2025 Antares,2025-10-12 10:37:47,7.3161,-43.8689,2018,1.0,2018.0,2018,2018,1968,2018,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.61035761831284
+Costa Norte 2025 Antares,2025-10-12 14:39:20,6.9867,-44.1717,1776,1.0,3035.0,1776,1776,1729,1776,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.482681828154654
+Costa Norte 2025 Antares,2025-10-12 18:44:16,6.6467,-44.4767,2152,1.0,2152.0,2152,2152,2053,2152,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.674617497364366
+Costa Norte 2025 Antares,2025-10-12 22:40:56,6.3119,-44.7733,2054,1.0,2054.0,2054,2054,1988,2054,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.62803112693034
+Costa Norte 2025 Antares,2025-10-13 04:25:53,5.9733,-45.0717,646,2.0,647.0,646,646,551,646,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,56.4723462945009
+Costa Norte 2025 Antares,2025-10-13 08:08:20,5.6417,-45.375,1696,1.0,1696.0,1696,1696,1580,1696,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.436617265234226
+Costa Norte 2025 Antares,2025-10-13 13:02:51,5.3078,-45.6778,1509,1.0,1509.0,1509,1507,1393,1508,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.31986492980897
+Costa Norte 2025 Antares,2025-10-13 17:17:08,4.9683,-45.9783,2077,1.0,2077.0,2077,2077,1926,2077,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.639161171659175
+Costa Norte 2025 Antares,2025-10-13 21:19:55,4.6383,-46.2817,2193,1.0,2193.0,2193,2193,2036,2193,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.693481640835174
+Costa Norte 2025 Antares,2025-10-14 01:23:46,4.3036,-46.5819,2152,1.0,2152.0,2152,2152,1994,2152,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.674617497364366
+Costa Norte 2025 Antares,2025-10-14 05:58:38,3.965,-46.8883,1998,1.0,1998.0,1998,1998,1839,1998,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.6004023345004
+Costa Norte 2025 Antares,2025-10-14 09:53:43,3.6367,-47.1867,1808,1.0,1808.0,1808,1808,1657,1808,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.5005294853953
+Costa Norte 2025 Antares,2025-10-14 13:59:42,3.305,-47.4883,1401,1.0,1401.0,1401,1401,1261,1401,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.245655067594534
+Costa Norte 2025 Antares,2025-10-14 18:06:48,2.97,-47.7933,494,27.0,520.0,494,494,396,494,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,56.20455776256869
+Costa Norte 2025 Antares,2025-10-14 18:37:19,2.9867,-47.8167,1,246.0,246.0,1,1,1,1,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,50.69314718055995
+Costa Norte 2025 Antares,2025-10-14 22:07:16,2.6267,-48.0903,896,2.5,92.0,896,896,0,896,0,costa_norte_2025_antares.parquet,True,True,False,True,False,True,True,False,41.79905586205879
+Costa Norte 2025 Antares,2025-10-23 10:20:31,3.3531,-48.8928,844,1.3,85.6,844,844,0,844,0,costa_norte_2025_antares.parquet,True,True,False,True,False,True,True,False,41.739336627357176
+Costa Norte 2025 Antares,2025-10-23 14:12:39,3.7031,-48.6125,3020,2.6,304.5,3020,3020,1815,3020,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,58.013343181386674
+Costa Norte 2025 Antares,2025-10-23 17:56:29,4.0383,-48.2917,1000,2.0,1001.0,1000,1000,872,1000,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,56.90875477931522
+Costa Norte 2025 Antares,2025-10-23 21:34:38,4.3572,-47.9883,1792,2.0,1793.0,1792,1792,1663,1792,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.49164547360513
+Costa Norte 2025 Antares,2025-10-24 01:45:30,4.695,-47.69,1868,2.0,1869.0,1868,1868,1734,1868,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.533158807455564
+Costa Norte 2025 Antares,2025-10-24 05:42:43,5.025,-47.3903,2151,1.0,2151.0,2151,2151,2012,2151,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.674152921281674
+Costa Norte 2025 Antares,2025-10-24 10:09:35,5.36,-47.085,2199,1.0,2199.0,2199,2199,2055,2199,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.696212639346406
+Costa Norte 2025 Antares,2025-10-24 14:21:42,5.695,-47.7817,1942,1.0,1942.0,1942,1942,1817,1942,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.57198844937744
+Costa Norte 2025 Antares,2025-10-24 18:49:27,6.0283,-46.48,1135,1.0,1135.0,1135,1135,1039,1135,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.035268599281096
+Costa Norte 2025 Antares,2025-10-24 23:41:51,6.36,-46.1767,1772,1.0,1772.0,1772,1772,1663,1772,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.48042830607421
+Costa Norte 2025 Antares,2025-10-25 04:01:21,6.7017,-45.88,2199,3.0,2201.0,2199,2199,2125,2199,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.696212639346406
+Costa Norte 2025 Antares,2025-10-25 08:17:17,7.0317,-45.575,2202,2.0,2203.0,2202,2202,2148,2202,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.697575346802346
+Costa Norte 2025 Antares,2025-10-25 12:50:09,7.36,-45.265,2189,1.0,2189.0,2189,2189,2134,2189,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.69165682281054
+Costa Norte 2025 Antares,2025-10-25 16:56:41,7.705,-44.9733,2163,1.0,2163.0,2163,2163,2103,2163,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.67971363996637
+Costa Norte 2025 Antares,2025-10-25 20:59:24,8.0367,-44.6717,2186,5.0,2190.0,2186,2186,2136,2186,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.690286020676766
+Costa Norte 2025 Antares,2025-10-26 05:01:42,8.7617,-45.4767,2186,5.0,2190.0,2186,2186,2155,2186,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.690286020676766
+Costa Norte 2025 Antares,2025-10-26 09:44:21,8.4433,-45.7833,2073,5.0,2077.0,2073,2073,2035,2073,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.63723438878947
+Costa Norte 2025 Antares,2025-10-26 14:27:22,8.0936,-46.0789,2172,5.0,2176.0,2172,2172,2118,2172,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.68386398025643
+Costa Norte 2025 Antares,2025-10-26 19:03:33,7.76,-46.3767,2195,5.0,2199.0,2195,2195,2133,2195,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.69439280262942
+Costa Norte 2025 Antares,2025-10-26 23:17:07,7.4317,-46.685,2161,5.0,2165.0,2161,2161,2082,2161,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.67878899819915
+Costa Norte 2025 Antares,2025-10-27 03:29:27,7.0933,-46.9783,2205,5.0,2209.0,2205,2205,2108,2205,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.698936199813446
+Costa Norte 2025 Antares,2025-10-27 09:18:37,6.7533,-47.285,2201,5.0,2205.0,2201,2201,2088,2201,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.69712131728262
+Costa Norte 2025 Antares,2025-10-27 20:45:06,6.4183,-47.5833,1870,5.0,1874.0,1870,1870,1749,1870,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.53422832627409
+Costa Norte 2025 Antares,2025-10-28 01:14:25,6.085,-47.885,2155,5.0,2159.0,2155,2155,2005,2155,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.67600993202889
+Costa Norte 2025 Antares,2025-10-28 05:29:59,5.7511,-48.1889,2160,5.0,2164.0,2160,2160,2021,2160,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.678326356506886
+Costa Norte 2025 Antares,2025-10-28 09:35:02,5.4233,-48.49,1916,5.0,1928.0,1916,1916,1795,1916,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.558516743045644
+Costa Norte 2025 Antares,2025-10-28 13:52:45,5.08,-48.7917,1796,5.0,1800.0,1796,1796,1672,1796,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.49387388678356
+Costa Norte 2025 Antares,2025-10-28 17:55:50,4.7567,-49.1017,1484,5.0,1488.0,1484,1484,1363,1484,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.3031700512368
+Costa Norte 2025 Antares,2025-10-28 22:09:19,4.4217,-49.3983,1018,5.0,1022.0,1018,1018,916,1018,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,56.92657703322273
+Costa Norte 2025 Antares,2025-10-29 02:26:59,4.0767,-49.6967,798,5.0,85.6,798,798,141,798,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,46.683360945766275
+Costa Norte 2025 Antares,2025-11-05 00:00:14,4.7967,-50.495,813,5.0,86.2,813,813,199,813,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,46.70196036600254
+Costa Norte 2025 Antares,2025-11-05 02:50:37,5.135,-50.1983,9993,5.0,1039.8,9993,9993,9261,9993,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,59.209740191904146
+Costa Norte 2025 Antares,2025-11-05 08:01:34,5.5094,-49.9136,14870,5.0,1493.3,14870,14870,14145,14870,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,59.60716828668868
+Costa Norte 2025 Antares,2025-11-05 11:44:21,5.8033,-49.5967,16093,5.0,1615.4,16093,16093,15097,16093,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,59.68620181070608
+Costa Norte 2025 Antares,2025-11-05 15:36:37,6.1383,-49.2933,16667,5.0,1704.2,16667,16667,15588,16667,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,59.72124599254234
+Costa Norte 2025 Antares,2025-11-05 21:42:58,6.495,-48.9917,19392,5.0,1955.4,19392,19392,18050,19392,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,59.87266745519624
+Costa Norte 2025 Antares,2025-11-06 01:38:32,6.8067,-48.685,2043,5.0,2047.0,2043,2043,1906,2043,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.622663951323595
+Costa Norte 2025 Antares,2025-11-06 05:44:56,7.1431,-48.39,1532,5.0,1536.0,1532,1532,1399,1532,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.334981878871815
+Costa Norte 2025 Antares,2025-11-06 09:53:26,7.4717,-48.0833,1394,5.0,1398.0,1394,1394,1279,1394,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.24064969425547
+Costa Norte 2025 Antares,2025-11-06 13:52:25,7.8061,-47.7856,2073,5.0,2077.0,2073,2073,1991,2073,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.63723438878947
+Costa Norte 2025 Antares,2025-11-06 18:03:25,8.1417,-47.485,2131,5.0,2135.0,2131,2131,2062,2131,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.66481578528573
+Costa Norte 2025 Antares,2025-11-06 22:43:08,8.48,-47.1867,1936,5.0,1940.0,1936,1936,1863,1936,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.568895663407
+Costa Norte 2025 Antares,2025-11-07 03:27:29,8.815,-46.8883,1767,5.0,1771.0,1767,1767,1698,1767,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.47760424319759
+Costa Norte 2025 Antares,2025-11-07 08:15:12,9.1517,-46.5817,1522,5.0,1526.0,1522,1522,1470,1522,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.328437352895165
+Costa Norte 2025 Antares,2025-11-07 13:22:30,9.4883,-46.2867,1558,5.0,1562.0,1558,1558,1506,1558,0,costa_norte_2025_antares.parquet,True,True,True,True,False,True,True,False,57.35179986905778
+Nordeste Cruzeiro do Sul,2025-03-26 12:13:35,-4.6531,-36.7533,34,4.0,37.0,34,34,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.555348061489415
+Nordeste Cruzeiro do Sul,2025-03-26 12:15:38,-4.6531,-36.7533,302,5.0,36.5,0,0,0,302,302,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.71373280550937
+Nordeste Cruzeiro do Sul,2025-03-26 15:15:31,-4.4289,-36.6383,3706,2.0,1857.0,1856,1856,1757,1850,1850,nordeste_cruzeiro_do_sul.parquet,True,True,True,True,True,True,True,True,63.217978203150736
+Nordeste Cruzeiro do Sul,2025-03-26 20:06:30,-4.1742,-36.5244,4442,3.0,2226.0,2224,2224,2127,2218,2218,nordeste_cruzeiro_do_sul.parquet,True,True,True,True,True,True,True,True,63.399085102935906
+Nordeste Cruzeiro do Sul,2025-03-27 04:16:10,-3.9189,-36.4092,2560,4.0,2563.0,2560,2560,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.848153086199524
+Nordeste Cruzeiro do Sul,2025-03-27 04:18:11,-3.9217,-36.4144,2559,5.0,2563.0,0,0,2478,2559,2559,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.847762537473606
+Nordeste Cruzeiro do Sul,2025-03-27 11:18:45,-3.6625,-36.2919,2998,3.0,3000.0,2998,2998,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.00603417874901
+Nordeste Cruzeiro do Sul,2025-03-27 11:20:45,-3.6608,-36.2908,2996,5.0,3000.0,0,0,2917,2996,2996,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.00536706731666
+Nordeste Cruzeiro do Sul,2025-03-27 17:41:49,-3.4161,-36.1786,2960,5.0,2964.0,2960,2960,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.99328232810159
+Nordeste Cruzeiro do Sul,2025-03-27 17:43:49,-3.4161,-36.1781,2960,5.0,2964.0,0,0,2888,2960,2960,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.99328232810159
+Nordeste Cruzeiro do Sul,2025-03-28 00:36:53,-3.2897,-36.6917,2790,5.0,2794.0,2790,2790,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.93415523353632
+Nordeste Cruzeiro do Sul,2025-03-28 00:38:51,-3.2894,-36.6911,2791,4.0,2794.0,0,0,2701,2791,2791,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.93451346388226
+Nordeste Cruzeiro do Sul,2025-03-28 06:01:44,-3.5742,-36.8439,2619,3.0,2621.0,2619,2619,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.87092959675514
+Nordeste Cruzeiro do Sul,2025-03-28 06:03:42,-3.5736,-36.8422,2617,5.0,2621.0,0,0,2544,2617,2617,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.87016594646985
+Nordeste Cruzeiro do Sul,2025-03-28 11:07:18,-3.8556,-36.995,2209,3.0,2211.0,2209,2209,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.7007477945118
+Nordeste Cruzeiro do Sul,2025-03-28 11:09:15,-3.8508,-36.9928,2207,5.0,2211.0,0,0,2119,2207,2207,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.699842407396986
+Nordeste Cruzeiro do Sul,2025-03-29 03:55:51,-4.1425,-37.1486,904,2.0,905.0,904,904,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.80793494369993
+Nordeste Cruzeiro do Sul,2025-03-29 03:57:47,-4.1425,-37.1483,901,5.0,905.0,0,0,813,901,901,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,41.80461452006262
+Nordeste Cruzeiro do Sul,2025-03-29 07:42:40,-4.4011,-37.2814,16,3.0,18.0,16,16,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,22.833213344056215
+Nordeste Cruzeiro do Sul,2025-03-29 07:44:35,-4.4003,-37.2803,153,3.2,18.4,0,0,0,153,153,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.03695260241363
+Nordeste Cruzeiro do Sul,2025-03-29 13:52:06,-3.9911,-37.8036,12,4.0,15.0,12,12,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,22.564949357461536
+Nordeste Cruzeiro do Sul,2025-03-29 13:53:59,-3.9908,-37.8033,1,3.1,3.1,0,0,0,1,1,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,10.693147180559945
+Nordeste Cruzeiro do Sul,2025-03-29 17:08:14,-3.7725,-37.6678,412,2.0,413.0,412,412,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.023447592961034
+Nordeste Cruzeiro do Sul,2025-03-29 21:09:07,-3.5225,-37.5092,403,3.0,405.0,403,403,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.00141487796115
+Nordeste Cruzeiro do Sul,2025-03-29 21:11:00,-3.5219,-37.505,401,5.0,405.0,0,0,315,401,401,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,40.99645208861902
+Nordeste Cruzeiro do Sul,2025-03-30 02:17:09,-3.2611,-37.34,247,2.0,248.0,247,247,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,45.51342874616498
+Nordeste Cruzeiro do Sul,2025-03-30 02:19:01,-3.2608,-37.3386,244,5.0,248.0,0,0,147,244,244,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,40.50125821054473
+Nordeste Cruzeiro do Sul,2025-03-30 06:03:40,-3.0067,-37.1778,3034,2.0,3035.0,3034,3034,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.0179667034936
+Nordeste Cruzeiro do Sul,2025-03-30 06:05:31,-3.0058,-37.1761,3031,5.0,3035.0,0,0,2952,3031,3031,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.016977746762265
+Nordeste Cruzeiro do Sul,2025-03-30 12:08:04,-2.78,-37.5953,2831,2.0,2832.0,2831,2831,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.94873845481361
+Nordeste Cruzeiro do Sul,2025-03-30 12:09:55,-2.7797,-37.5944,2828,5.0,2832.0,0,0,2744,2828,2828,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.947678571301566
+Nordeste Cruzeiro do Sul,2025-03-30 19:04:12,-3.0744,-37.7794,2239,3.0,2241.0,2239,2239,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.71423114484909
+Nordeste Cruzeiro do Sul,2025-03-30 19:06:02,-3.0742,-37.7767,2237,5.0,2241.0,0,0,2158,2237,2237,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.71333788887187
+Nordeste Cruzeiro do Sul,2025-03-31 00:59:15,-3.3633,-37.9664,1488,5.0,1492.0,1488,1488,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.30586003268401
+Nordeste Cruzeiro do Sul,2025-03-31 01:01:04,-3.3614,-37.9647,1489,4.0,1492.0,0,0,1412,1489,1489,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.306531398939505
+Nordeste Cruzeiro do Sul,2025-03-31 05:12:31,-3.6444,-38.15,19,3.0,21.0,19,19,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,22.99573227355399
+Nordeste Cruzeiro do Sul,2025-03-31 05:14:20,-3.6442,-38.1494,155,5.2,20.8,0,0,0,155,155,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.049856007249538
+Nordeste Cruzeiro do Sul,2025-03-31 11:08:06,-3.3044,-38.7297,24,4.0,27.0,24,24,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.2188758248682
+Nordeste Cruzeiro do Sul,2025-03-31 11:09:53,-3.3042,-38.7297,220,4.9,27.1,0,0,0,220,220,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.398162701517752
+Nordeste Cruzeiro do Sul,2025-03-31 14:29:16,-3.0425,-38.5378,1117,5.0,1121.0,1117,1117,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.019296653715045
+Nordeste Cruzeiro do Sul,2025-03-31 14:31:04,-3.0425,-38.5367,1117,5.0,1121.0,0,0,1040,1117,1117,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.019296653715045
+Nordeste Cruzeiro do Sul,2025-03-31 19:20:37,-2.7789,-38.35,1914,3.0,1916.0,1914,1914,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.557472901614744
+Nordeste Cruzeiro do Sul,2025-03-31 19:22:23,-2.7789,-38.3486,1912,5.0,1916.0,0,0,1811,1912,1912,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.55642796944025
+Nordeste Cruzeiro do Sul,2025-04-01 01:19:51,-2.5094,-38.1569,2060,6.0,2065.0,2060,2060,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.63094658089046
+Nordeste Cruzeiro do Sul,2025-04-01 01:21:36,-2.5094,-38.1561,2060,6.0,2065.0,0,0,1978,2060,2060,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.63094658089046
+Nordeste Cruzeiro do Sul,2025-04-01 08:35:06,-2.1306,-38.9261,2027,3.0,2029.0,2027,2027,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.614805364711074
+Nordeste Cruzeiro do Sul,2025-04-01 08:36:51,-2.1303,-38.9242,2025,5.0,2029.0,0,0,1945,2025,2025,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.61381868480863
+Nordeste Cruzeiro do Sul,2025-04-01 13:37:10,-2.375,-39.0994,1824,3.0,1826.0,1824,1824,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.50933526601659
+Nordeste Cruzeiro do Sul,2025-04-01 13:38:54,-2.3744,-39.0947,1822,5.0,1826.0,0,0,1745,1822,1822,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.50823877467866
+Nordeste Cruzeiro do Sul,2025-04-01 20:06:09,-2.6208,-39.2592,52,3.0,54.0,52,52,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.97029191355212
+Nordeste Cruzeiro do Sul,2025-04-01 20:07:52,-2.6225,-39.2622,485,5.0,53.6,0,0,0,485,485,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,16.186208623900495
+Nordeste Cruzeiro do Sul,2025-04-01 22:53:05,-2.8383,-39.4075,22,3.0,24.0,22,22,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.13549421592915
+Nordeste Cruzeiro do Sul,2025-04-01 22:54:48,-2.6225,-39.2622,187,5.0,24.1,0,0,0,187,187,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.23644196282995
+Nordeste Cruzeiro do Sul,2025-04-02 07:01:26,-2.4017,-39.9636,20,2.0,21.0,20,20,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.044522437723423
+Nordeste Cruzeiro do Sul,2025-04-02 07:03:08,-2.4,-39.9633,163,5.0,21.3,0,0,0,163,163,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.0998664278242
+Nordeste Cruzeiro do Sul,2025-04-02 08:55:27,-2.2742,-39.9133,33,2.0,34.0,33,33,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.526360524616162
+Nordeste Cruzeiro do Sul,2025-04-02 08:57:08,-2.2731,-39.9139,285,5.0,34.4,0,0,0,285,285,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.655991810819852
+Nordeste Cruzeiro do Sul,2025-04-02 13:10:25,-1.9731,-39.7731,3001,2.0,3002.0,3001,3001,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.00703401219341
+Nordeste Cruzeiro do Sul,2025-04-02 13:12:06,-1.9728,-39.7722,2998,5.0,3002.0,0,0,2920,2998,2998,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.00603417874901
+Nordeste Cruzeiro do Sul,2025-04-02 19:33:38,-1.6725,-39.6303,3394,3.0,3396.0,3394,3394,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.130059039992794
+Nordeste Cruzeiro do Sul,2025-04-02 19:35:18,-1.6719,-39.63,3392,5.0,3396.0,0,0,3305,3392,3392,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.12946976478423
+Nordeste Cruzeiro do Sul,2025-04-03 03:43:50,-1.6711,-40.3881,3347,3.0,3349.0,3347,3347,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.116118431609365
+Nordeste Cruzeiro do Sul,2025-04-03 03:45:29,-1.6708,-40.3878,3345,5.0,3349.0,0,0,3270,3345,3345,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.11552088154677
+Nordeste Cruzeiro do Sul,2025-04-03 10:23:10,-1.9469,-40.4478,2521,3.0,2523.0,2521,2521,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.832807516524866
+Nordeste Cruzeiro do Sul,2025-04-03 10:24:48,-1.9797,-40.4475,2519,5.0,2523.0,0,0,2462,2519,2519,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.83201418050547
+Nordeste Cruzeiro do Sul,2025-04-03 14:45:47,-2.2197,-40.5031,44,2.0,45.0,44,44,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.806662489770318
+Nordeste Cruzeiro do Sul,2025-04-03 14:47:24,-2.1911,-40.5064,404,5.0,45.3,0,0,0,404,404,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,16.00388706710654
+Nordeste Cruzeiro do Sul,2025-04-03 17:13:10,-2.4431,-40.555,20,3.0,22.0,20,20,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.044522437723423
+Nordeste Cruzeiro do Sul,2025-04-03 17:14:47,-2.4431,-40.5553,161,5.0,21.9,0,0,0,161,161,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.087596335232384
+Nordeste Cruzeiro do Sul,2025-04-04 02:17:16,-2.4394,-41.2714,27,2.0,28.0,27,27,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.332204510175202
+Nordeste Cruzeiro do Sul,2025-04-04 02:18:52,-2.4386,-41.2717,227,5.0,28.2,0,0,0,227,227,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.42934562895444
+Nordeste Cruzeiro do Sul,2025-04-04 04:34:01,-2.2292,-41.2794,48,3.0,50.0,48,48,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.891820298110627
+Nordeste Cruzeiro do Sul,2025-04-04 07:50:34,-1.9097,-41.2361,2664,4.0,2667.0,2664,2664,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.88795933659995
+Nordeste Cruzeiro do Sul,2025-04-04 12:25:46,-1.5908,-41.2139,2982,4.0,2985.0,2982,2982,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.000684784514746
+Nordeste Cruzeiro do Sul,2025-04-04 19:00:16,-1.4822,-41.91,2077,4.0,2080.0,2077,2077,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.639161171659175
+Nordeste Cruzeiro do Sul,2025-04-05 01:02:16,-1.7903,-41.9311,2402,4.0,2405.0,2402,2402,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.78447323573647
+Nordeste Cruzeiro do Sul,2025-04-05 05:22:34,-2.1103,-41.9567,757,3.0,759.0,757,757,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.63068338564237
+Nordeste Cruzeiro do Sul,2025-04-05 08:51:20,-2.3844,-41.9786,19,4.0,22.0,19,19,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,22.99573227355399
+Nordeste Cruzeiro do Sul,2025-04-23 09:56:30,-3.6856,-35.6381,3260,4.0,3263.0,3260,3260,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.08978917578932
+Nordeste Cruzeiro do Sul,2025-04-23 09:58:36,-3.6867,-35.6367,3302,4.972,3262.226,0,0,3235,3302,3302,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.10258642539079
+Nordeste Cruzeiro do Sul,2025-04-23 15:29:07,-3.9631,-35.7956,272,2.0,273.0,272,272,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,45.60947179518496
+Nordeste Cruzeiro do Sul,2025-04-23 15:31:12,-3.9639,-35.7911,269,5.0,273.0,0,0,194,269,269,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,40.59842195899837
+Nordeste Cruzeiro do Sul,2025-04-24 13:52:30,-4.2453,-35.9444,1935,3.0,1937.0,1935,1935,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.56837926783652
+Nordeste Cruzeiro do Sul,2025-04-24 13:54:32,-4.245,-35.9458,1952,4.972,1936.141,0,0,1880,1952,1952,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.57712193087668
+Nordeste Cruzeiro do Sul,2025-04-24 18:19:25,-4.5264,-36.0978,2201,3.0,2203.0,2201,2201,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.69712131728262
+Nordeste Cruzeiro do Sul,2025-04-24 18:21:26,-4.5242,-36.0958,2223,4.972,2202.983,0,0,2141,2223,2223,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.70706265537047
+Nordeste Cruzeiro do Sul,2025-04-24 22:30:39,-4.8003,-36.2481,58,4.0,61.0,58,58,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,24.07753744390572
+Nordeste Cruzeiro do Sul,2025-04-24 22:32:40,-4.7994,-36.2472,559,5.0,61.0,0,0,0,559,559,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,16.327936783729193
+Nordeste Cruzeiro do Sul,2025-04-25 05:49:23,-4.8169,-35.5731,26,5.0,30.0,26,26,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.29583686600433
+Nordeste Cruzeiro do Sul,2025-04-25 05:51:23,-4.8125,-35.5686,253,4.5,30.3,0,0,0,253,253,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.537334267018537
+Nordeste Cruzeiro do Sul,2025-04-25 09:59:23,-4.5719,-35.3744,1875,4.0,1878.0,1875,1875,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.53689712956617
+Nordeste Cruzeiro do Sul,2025-04-25 10:01:23,-4.5678,-35.3719,1893,4.972,1877.992,0,0,1817,1893,1893,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.54644627374602
+Nordeste Cruzeiro do Sul,2025-04-25 18:41:39,-4.2781,-35.19,3028,2.0,3029.0,3028,3028,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.01598781102724
+Nordeste Cruzeiro do Sul,2025-04-25 18:43:37,-4.2781,-35.1839,3025,5.0,3029.0,0,0,2925,3025,3025,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.0149968943483
+Nordeste Cruzeiro do Sul,2025-04-26 02:58:59,-3.9869,-35.0036,3243,4.0,3246.0,3243,3243,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.084562415235304
+Nordeste Cruzeiro do Sul,2025-04-26 03:00:56,-3.9856,-34.9978,3243,4.0,3246.0,0,0,3154,3243,3243,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.084562415235304
+Nordeste Cruzeiro do Sul,2025-04-26 17:56:01,-4.625,-34.2889,3801,3.0,3803.0,3801,3801,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.24328252304838
+Nordeste Cruzeiro do Sul,2025-04-26 17:57:57,-4.6242,-34.2789,3799,5.0,3803.0,0,0,3707,3799,3799,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.242756345714476
+Nordeste Cruzeiro do Sul,2025-04-26 23:18:21,-4.7983,-34.5878,3703,3.0,3705.0,3703,3703,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.21716859576607
+Nordeste Cruzeiro do Sul,2025-04-26 23:20:15,-4.7978,-34.5869,3701,5.0,3705.0,0,0,3598,3701,3701,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.21662849313344
+Nordeste Cruzeiro do Sul,2025-04-27 04:14:08,-4.9717,-34.8922,767,3.0,769.0,767,767,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.64378973314767
+Nordeste Cruzeiro do Sul,2025-04-27 04:16:02,-4.9694,-34.8911,765,5.0,769.0,0,0,655,765,765,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,41.64118216974059
+Nordeste Cruzeiro do Sul,2025-04-27 07:29:55,-5.1269,-35.1706,22,4.0,25.0,22,22,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.13549421592915
+Nordeste Cruzeiro do Sul,2025-04-27 07:31:49,-5.1367,-35.1858,199,5.0,24.9,0,0,0,199,199,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.298317366548037
+Nordeste Cruzeiro do Sul,2025-04-27 15:02:17,-5.7217,-34.8597,1849,4.0,1852.0,1849,1849,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.52294091807237
+Nordeste Cruzeiro do Sul,2025-04-27 15:04:09,-5.7214,-34.8586,1848,5.0,1852.0,0,0,1759,1848,1848,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.522400231387124
+Nordeste Cruzeiro do Sul,2025-04-27 19:43:14,-5.6219,-34.5736,3158,4.0,3161.0,3158,3158,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.05801080080209
+Nordeste Cruzeiro do Sul,2025-04-27 19:45:06,-5.6211,-34.5736,3157,5.0,3161.0,0,0,3037,3157,3157,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.05769419481559
+Nordeste Cruzeiro do Sul,2025-04-28 01:22:22,-5.5236,-34.2964,3889,4.0,3892.0,3889,3889,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.26616443661249
+Nordeste Cruzeiro do Sul,2025-04-28 01:24:13,-5.5233,-34.2961,3888,5.0,3892.0,0,0,3777,3888,3888,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.26590733415575
+Nordeste Cruzeiro do Sul,2025-04-28 07:42:55,-5.4256,-34.0022,4106,4.0,4109.0,4106,4106,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.32044811395656
+Nordeste Cruzeiro do Sul,2025-04-28 07:44:45,-5.4217,-34.0047,4105,5.0,4109.0,0,0,3996,4105,4105,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.32020459757888
+Nordeste Cruzeiro do Sul,2025-04-28 14:31:10,-5.3281,-33.7294,4285,2.0,4286.0,4285,4285,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.36310917603352
+Nordeste Cruzeiro do Sul,2025-04-28 14:32:59,-5.3219,-33.7203,4282,5.0,4286.0,0,0,4180,4282,4282,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.362408977615374
+Nordeste Cruzeiro do Sul,2025-04-29 02:31:36,-6.2581,-33.64,4334,3.0,4336.0,4334,4334,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.37447688921464
+Nordeste Cruzeiro do Sul,2025-04-29 02:33:23,-6.2594,-33.6403,4332,5.0,4336.0,0,0,4230,4332,4332,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.37401542173991
+Nordeste Cruzeiro do Sul,2025-04-29 07:37:36,-6.2911,-33.9194,4250,3.0,4252.0,4250,4250,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.35490952835879
+Nordeste Cruzeiro do Sul,2025-04-29 07:39:23,-6.2906,-33.9194,4248,5.0,4252.0,0,0,4137,4248,4248,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.35443894011481
+Nordeste Cruzeiro do Sul,2025-04-29 12:15:52,-6.3192,-34.1925,2533,4.0,2536.0,2533,2533,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.837554360881086
+Nordeste Cruzeiro do Sul,2025-04-29 12:17:39,-6.3192,-34.1994,2532,5.0,2536.0,0,0,2428,2532,2532,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.837159650001674
+Nordeste Cruzeiro do Sul,2025-04-29 16:56:06,-6.3625,-34.4828,2903,2.0,2904.0,2903,2903,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.97384437594469
+Nordeste Cruzeiro do Sul,2025-04-29 16:57:52,-6.3492,-34.4792,2900,5.0,2904.0,0,0,2787,2900,2900,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.97281078412141
+Nordeste Cruzeiro do Sul,2025-04-29 21:02:49,-6.3803,-34.7592,348,3.0,350.0,348,348,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,45.85507192220243
+Nordeste Cruzeiro do Sul,2025-04-29 21:04:35,-6.38,-34.7589,346,5.0,350.0,0,0,280,346,346,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,40.84932477994686
+Nordeste Cruzeiro do Sul,2025-04-30 04:10:46,-7.0089,-34.5394,39,4.0,42.0,39,39,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.688879454113938
+Nordeste Cruzeiro do Sul,2025-04-30 04:12:30,-7.0175,-34.5386,369,5.0,42.3,0,0,0,369,369,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.913503005638269
+Nordeste Cruzeiro do Sul,2025-04-30 07:28:27,-6.9792,-34.2367,3053,3.0,3055.0,3053,3053,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.024207485778575
+Nordeste Cruzeiro do Sul,2025-04-30 07:30:11,-6.9794,-34.2372,3051,5.0,3055.0,0,0,2948,3051,3051,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.02355239240435
+Nordeste Cruzeiro do Sul,2025-04-30 12:02:55,-6.9394,-33.9403,3354,4.0,3357.0,3354,3354,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.11820704940578
+Nordeste Cruzeiro do Sul,2025-04-30 12:04:38,-6.9381,-33.9408,3353,5.0,3357.0,0,0,3265,3353,3353,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.11790894238315
+Nordeste Cruzeiro do Sul,2025-04-30 18:13:48,-6.9031,-33.6411,3042,3.0,3044.0,3042,3042,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.02059914989697
+Nordeste Cruzeiro do Sul,2025-04-30 18:15:30,-6.9028,-33.6411,3040,5.0,3044.0,0,0,2929,3040,3040,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.01994168767737
+Nordeste Cruzeiro do Sul,2025-05-01 05:25:21,-7.9728,-33.4817,4346,7.0,4352.0,4346,4346,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.377241230988794
+Nordeste Cruzeiro do Sul,2025-05-01 05:27:01,-7.9747,-33.4808,4346,7.0,4352.0,0,0,4240,4346,4346,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.377241230988794
+Nordeste Cruzeiro do Sul,2025-05-01 10:34:46,-7.9403,-33.7594,4225,4.0,4228.0,4225,4225,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.349011198176
+Nordeste Cruzeiro do Sul,2025-05-01 10:36:26,-7.94,-33.7603,4224,5.0,4228.0,0,0,4116,4224,4224,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.34877453979127
+Nordeste Cruzeiro do Sul,2025-05-01 15:16:25,-7.9069,-34.04,2102,2.0,2103.0,2102,2102,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.6511201757027
+Nordeste Cruzeiro do Sul,2025-05-01 15:18:04,-7.9058,-34.0397,2099,5.0,2103.0,0,0,1991,2099,2099,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.649692623711516
+Nordeste Cruzeiro do Sul,2025-05-01 19:08:47,-7.8722,-34.3181,801,3.0,803.0,801,801,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,46.68710860786651
+Nordeste Cruzeiro do Sul,2025-05-01 19:10:26,-7.8722,-34.3181,799,5.0,803.0,0,0,685,799,799,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,41.68461172766793
+Nordeste Cruzeiro do Sul,2025-05-01 22:03:45,-7.8308,-34.5667,38,3.0,40.0,38,38,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.663561646129647
+Nordeste Cruzeiro do Sul,2025-05-01 22:05:24,-7.8353,-34.5986,353,5.0,40.2,0,0,0,353,353,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.869296913133773
+Nordeste Cruzeiro do Sul,2025-05-02 04:16:53,-8.4528,-34.7886,31,4.0,34.0,31,31,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.465735902799725
+Nordeste Cruzeiro do Sul,2025-05-02 04:18:30,-8.4525,-34.7881,287,5.0,33.8,0,0,0,287,287,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.662960480135947
+Nordeste Cruzeiro do Sul,2025-05-02 07:37:55,-8.5897,-34.5331,1230,5.0,1234.0,1230,1230,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.11558212618446
+Nordeste Cruzeiro do Sul,2025-05-02 07:39:33,-8.5897,-34.5331,1230,5.0,1234.0,0,0,1132,1230,1230,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.11558212618446
+Nordeste Cruzeiro do Sul,2025-05-02 11:26:20,-8.7131,-34.2261,2103,3.0,2105.0,2103,2103,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.6515955738576
+Nordeste Cruzeiro do Sul,2025-05-02 11:27:57,-8.7128,-34.2258,2101,5.0,2105.0,0,0,1984,2101,2101,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.6506445514369
+Nordeste Cruzeiro do Sul,2025-05-02 16:05:53,-8.8358,-33.9219,2883,4.0,2886.0,2883,2883,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.96693349840484
+Nordeste Cruzeiro do Sul,2025-05-02 16:07:29,-8.835,-34.9208,2882,5.0,2886.0,0,0,2774,2882,2882,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.966586697638405
+Nordeste Cruzeiro do Sul,2025-05-02 23:06:14,-9.3914,-34.1606,3891,4.0,3894.0,3891,3891,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.26667844330589
+Nordeste Cruzeiro do Sul,2025-05-02 23:07:49,-9.3906,-34.16,3890,5.0,3894.0,0,0,3775,3890,3890,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.266421472984554
+Nordeste Cruzeiro do Sul,2025-05-03 04:17:38,-9.2625,-34.4625,3678,4.0,3681.0,3678,3678,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,48.210396255104776
+Nordeste Cruzeiro do Sul,2025-05-03 04:19:13,-9.2628,-34.4619,3677,5.0,3681.0,0,0,3568,3677,3677,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,43.210124405164265
+Nordeste Cruzeiro do Sul,2025-05-03 09:16:05,-9.1378,-34.7708,1403,3.0,1405.0,1403,1403,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,47.24708058458576
+Nordeste Cruzeiro do Sul,2025-05-03 09:17:38,-9.1378,-34.7714,1401,5.0,1405.0,0,0,1306,1401,1401,nordeste_cruzeiro_do_sul.parquet,False,False,True,True,True,False,False,False,42.245655067594534
+Nordeste Cruzeiro do Sul,2025-05-03 13:11:10,-9.0192,-35.0628,25,3.0,27.0,25,25,0,0,0,nordeste_cruzeiro_do_sul.parquet,True,True,False,False,False,True,False,False,23.258096538021483
+Nordeste Cruzeiro do Sul,2025-05-03 13:12:43,-9.0186,-35.0622,219,5.0,27.1,0,0,0,219,219,nordeste_cruzeiro_do_sul.parquet,False,False,False,True,True,False,False,False,15.393627546352361
+Oceano Sudeste,2002-10-19 19:15:00,-22.2128,-35.2244,2523,3.976,2494.508,0,0,2523,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.8336002236611
+Oceano Sudeste,2002-10-22 13:07:00,-21.9069,-40.6233,16,1.981,16.919,0,0,16,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,7.833213344056216
+Oceano Sudeste,2002-10-22 13:11:42,-21.9069,-40.6231,16,1.981,16.919,16,16,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,22.833213344056215
+Oceano Sudeste,2002-10-22 18:02:00,-21.9589,-40.2633,53,2.975,54.689,0,0,53,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.988984046564275
+Oceano Sudeste,2002-10-22 18:07:11,-21.9589,-40.2631,53,2.975,54.689,53,53,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.988984046564276
+Oceano Sudeste,2002-10-22 23:17:00,-22.1692,-39.7144,1826,1.984,1807.173,0,0,1826,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.510430556378004
+Oceano Sudeste,2002-10-22 23:19:03,-22.1692,-39.7144,1826,1.984,1807.17,1826,1826,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.510430556378004
+Oceano Sudeste,2002-10-23 04:43:00,-22.2706,-39.1897,2118,4.962,2097.51,0,0,2118,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.658699558268296
+Oceano Sudeste,2002-10-23 04:44:49,-22.2706,-39.1897,2118,4.962,2097.51,2118,2118,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.658699558268296
+Oceano Sudeste,2002-10-23 10:29:00,-22.3461,-38.6697,2520,2.961,2490.571,0,0,2520,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83241092718792
+Oceano Sudeste,2002-10-23 10:32:10,-22.3461,-38.6697,2520,2.961,2490.57,2520,2520,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83241092718792
+Oceano Sudeste,2002-10-23 23:48:00,-22.5233,-38.1833,2537,4.986,2509.216,0,0,2537,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83913164827433
+Oceano Sudeste,2002-10-23 23:49:28,-22.5231,-38.1831,2537,4.986,2509.22,2537,2537,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83913164827433
+Oceano Sudeste,2002-10-24 11:03:00,-22.6117,-37.5525,2515,3.986,2486.633,0,0,2515,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83042561782033
+Oceano Sudeste,2002-10-24 11:46:04,-22.6117,-37.5525,2515,3.986,2486.63,2515,2515,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83042561782033
+Oceano Sudeste,2002-10-24 17:22:00,-22.7928,-37.0392,2537,3.966,2508.24,0,0,2537,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83913164827433
+Oceano Sudeste,2002-10-24 17:24:20,-22.7928,-37.0392,2537,3.966,2508.24,2537,2537,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83913164827433
+Oceano Sudeste,2002-10-24 22:56:00,-22.9603,-36.5028,2528,3.978,2499.408,0,0,2528,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.835579246669965
+Oceano Sudeste,2002-10-24 23:04:10,-22.9603,-36.5028,2528,3.978,2499.41,2528,2528,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.835579246669965
+Oceano Sudeste,2002-10-25 04:25:22,-23.1081,-35.9725,2538,4.975,2510.22,2538,2538,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83952558170468
+Oceano Sudeste,2002-10-25 13:48:00,-23.3286,-34.8722,2523,2.984,2493.536,0,0,2523,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.8336002236611
+Oceano Sudeste,2002-10-25 13:57:00,-23.3286,-34.8722,2523,2.984,2493.54,2523,2523,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.8336002236611
+Oceano Sudeste,2002-10-29 19:16:01,-22.2128,-35.2244,2523,3.976,2494.51,2523,2523,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.8336002236611
+Oceano Sudeste,2002-10-30 00:37:00,-22.0261,-35.8761,2524,1.987,2493.551,0,0,2524,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83399634170946
+Oceano Sudeste,2002-10-30 00:40:50,-22.0261,-35.8761,2524,1.987,2493.55,2524,2524,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83399634170946
+Oceano Sudeste,2002-10-30 05:05:00,-21.9711,-36.4106,2531,3.97,2502.368,0,0,2531,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.836764783264066
+Oceano Sudeste,2002-10-30 05:15:49,-21.9711,-36.4106,2531,3.97,2502.37,2531,2531,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.836764783264066
+Oceano Sudeste,2002-10-30 09:42:00,-21.9058,-36.9447,2535,3.98,2506.306,0,0,2535,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83834331555712
+Oceano Sudeste,2002-10-30 09:49:36,-21.9056,-36.9447,2535,3.98,2506.31,2535,2535,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83834331555712
+Oceano Sudeste,2002-10-30 14:47:00,-21.8439,-37.4764,2532,3.981,2503.444,0,0,2532,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.837159650001674
+Oceano Sudeste,2002-10-30 14:48:49,-21.8439,-37.4764,2532,3.981,2503.44,2532,2532,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.837159650001674
+Oceano Sudeste,2002-10-30 19:25:00,-21.7775,-38.0142,2535,3.984,2506.296,0,0,2535,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83834331555712
+Oceano Sudeste,2002-10-30 19:54:04,-21.7772,-38.0142,2535,3.984,2506.3,2535,2535,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83834331555712
+Oceano Sudeste,2002-10-31 00:28:00,-21.7108,-38.5403,2532,2.994,2502.381,0,0,2532,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.837159650001674
+Oceano Sudeste,2002-10-31 00:30:22,-21.7106,-38.5403,2532,2.994,2502.38,2532,2532,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.837159650001674
+Oceano Sudeste,2002-10-31 05:05:00,-21.6494,-39.0903,2018,3.946,1998.219,0,0,2018,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.61035761831284
+Oceano Sudeste,2002-10-31 05:15:10,-21.6494,-39.0903,2018,3.946,1998.22,2018,2018,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.61035761831284
+Oceano Sudeste,2002-10-31 14:07:24,-21.5678,-39.6128,244,1.2,264.3,244,244,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,45.50125821054473
+Oceano Sudeste,2002-10-31 18:00:00,-21.5319,-40.1581,249,21.868,268.091,0,0,249,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,30.521460917862246
+Oceano Sudeste,2002-10-31 18:10:03,-21.5319,-40.1581,249,21.868,268.091,249,249,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,45.52146091786224
+Oceano Sudeste,2002-10-31 20:50:00,-21.4625,-40.3944,22,0.99,21.861,0,0,22,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.13549421592915
+Oceano Sudeste,2002-10-31 20:52:07,-21.4625,-40.3944,22,0.99,21.861,22,22,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.13549421592915
+Oceano Sudeste,2002-11-01 00:44:00,-21.4106,-40.6656,16,2.981,17.891,0,0,16,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,7.833213344056216
+Oceano Sudeste,2002-11-01 00:52:07,-21.4106,-40.6656,16,2.981,17.891,16,16,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,22.833213344056215
+Oceano Sudeste,2002-11-06 21:10:00,-24.8275,-35.5394,2411,2.922,2383.553,0,0,2411,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.78821155784708
+Oceano Sudeste,2002-11-06 21:18:53,-24.8272,-35.5394,2411,2.922,2383.55,2411,2411,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.78821155784708
+Oceano Sudeste,2002-11-07 04:36:00,-24.3961,-36.5017,1523,4.917,1511.546,0,0,1523,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.32909373624659
+Oceano Sudeste,2002-11-07 04:38:23,-24.3961,-36.5017,1523,4.917,1511.55,1523,1523,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.32909373624659
+Oceano Sudeste,2002-11-07 11:20:00,-24.1636,-36.9914,2525,5.022,2497.496,0,0,2525,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83439230291044
+Oceano Sudeste,2002-11-07 11:27:23,-24.1636,-36.9914,2525,5.022,2497.5,2525,2525,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83439230291044
+Oceano Sudeste,2002-11-07 16:58:00,-23.9283,-37.6178,2536,5.026,2508.247,0,0,2536,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83873755959928
+Oceano Sudeste,2002-11-07 16:59:35,-23.9283,-37.6178,2536,5.026,2508.25,2536,2536,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83873755959928
+Oceano Sudeste,2002-11-07 21:00:00,-23.7,-38.0311,2512,3.906,2483.738,0,0,2512,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.82923253754359
+Oceano Sudeste,2002-11-07 21:12:51,-23.7,-38.0311,2512,3.906,2483.74,2512,2512,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.82923253754359
+Oceano Sudeste,2002-11-08 01:01:00,-23.4797,-38.5542,2518,5.001,2490.593,0,0,2518,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83161727635261
+Oceano Sudeste,2002-11-08 01:59:41,-23.4797,-38.5542,2518,5.001,2490.59,2518,2518,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83161727635261
+Oceano Sudeste,2002-11-08 05:50:00,-23.3344,-38.9967,2509,2.958,2479.825,0,0,2509,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.82803803212583
+Oceano Sudeste,2002-11-08 06:00:46,-23.3344,-38.9967,2509,2.958,2479.82,2509,2509,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.82803803212583
+Oceano Sudeste,2002-11-08 10:00:00,-23.0844,-39.4661,2549,4.979,2521.041,0,0,2549,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.84384863815247
+Oceano Sudeste,2002-11-08 10:45:48,-23.0844,-39.4661,2549,4.979,2521.04,2549,2549,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.84384863815247
+Oceano Sudeste,2002-11-08 15:42:00,-22.8222,-39.9967,3542,0.0,1754.014,0,0,3539,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,33.17272910486547
+Oceano Sudeste,2002-11-08 15:50:57,-22.8222,-39.9967,5306,0.989,1754.01,5306,5289,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,48.576781982827896
+Oceano Sudeste,2002-11-08 21:16:00,-22.6217,-40.4261,208,8.935,214.507,0,0,208,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,30.34233425196481
+Oceano Sudeste,2002-11-08 21:17:32,-22.6217,-40.4261,208,8.935,214.507,208,208,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,45.342334251964814
+Oceano Sudeste,2002-11-08 23:50:00,-22.5003,-40.6844,73,3.979,75.521,0,0,73,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,9.30406509320417
+Oceano Sudeste,2002-11-08 23:56:29,-22.5003,-40.6844,73,3.979,75.521,73,73,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,24.30406509320417
+Oceano Sudeste,2002-11-09 03:02:00,-22.3358,-41.0153,27,0.992,26.841,0,0,27,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.332204510175204
+Oceano Sudeste,2002-11-09 03:05:40,-22.3358,-41.0153,27,0.992,26.841,27,27,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.332204510175202
+Oceano Sudeste,2002-11-09 06:57:00,-22.6842,-41.5044,32,2.999,33.828,0,0,32,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.49650756146648
+Oceano Sudeste,2002-11-09 07:08:29,-22.6842,-41.5044,32,2.999,33.828,32,32,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.49650756146648
+Oceano Sudeste,2002-11-09 09:57:00,-22.8042,-41.2486,48,0.991,47.7,0,0,48,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.891820298110627
+Oceano Sudeste,2002-11-09 09:58:54,-22.8042,-41.2486,48,0.991,47.7,48,48,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.891820298110627
+Oceano Sudeste,2002-11-09 12:40:00,-22.9308,-40.9986,69,0.993,68.56,0,0,69,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,9.248495242049358
+Oceano Sudeste,2002-11-09 12:42:07,-22.9308,-40.9986,69,0.993,68.56,69,69,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,24.24849524204936
+Oceano Sudeste,2002-11-09 18:20:00,-23.0567,-40.8336,220,0.99,218.513,0,0,220,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,30.39816270151775
+Oceano Sudeste,2002-11-09 18:38:22,-23.0567,-40.8336,220,0.99,218.513,220,220,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,45.398162701517755
+Oceano Sudeste,2002-11-09 22:58:00,-23.3392,-40.3475,2248,2.966,2223.389,0,0,2248,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.71824095195932
+Oceano Sudeste,2002-11-09 23:07:38,-23.3392,-40.3472,2248,2.966,2223.39,2248,2248,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.71824095195932
+Oceano Sudeste,2002-11-10 04:24:00,-23.6742,-39.9108,2529,1.968,2498.461,0,0,2529,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.835974581721565
+Oceano Sudeste,2002-11-10 04:27:34,-23.6742,-39.9108,2529,1.968,2498.46,2529,2529,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.835974581721565
+Oceano Sudeste,2002-11-10 10:47:00,-23.9653,-39.4669,2507,2.989,2477.938,0,0,2507,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.82724090175281
+Oceano Sudeste,2002-11-10 10:53:27,-23.9653,-39.4669,2507,2.989,2477.94,2507,2507,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.82724090175281
+Oceano Sudeste,2002-11-10 16:45:00,-24.2014,-39.0319,2526,2.823,2496.495,0,0,2526,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83478810738819
+Oceano Sudeste,2002-11-10 16:47:35,-24.2014,-39.0319,2526,2.823,2496.5,2526,2526,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83478810738819
+Oceano Sudeste,2002-11-10 21:10:00,-24.4708,-38.6294,2525,2.97,2495.528,0,0,2525,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.83439230291044
+Oceano Sudeste,2002-11-10 21:15:31,-24.4708,-38.6294,2525,2.97,2495.53,2525,2525,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.83439230291044
+Oceano Sudeste,2002-11-11 02:32:00,-24.8236,-38.1639,2528,4.966,2500.389,0,0,2528,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.835579246669965
+Oceano Sudeste,2002-11-11 02:34:07,-24.8236,-38.1639,2528,4.966,2500.39,2528,2528,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.835579246669965
+Oceano Sudeste,2002-11-13 10:16:00,-24.7222,-39.9772,2528,3.978,2499.42,0,0,2528,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.835579246669965
+Oceano Sudeste,2002-11-13 10:19:14,-24.7222,-39.9772,2528,3.978,2499.42,2528,2528,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.835579246669965
+Oceano Sudeste,2002-11-13 14:50:00,-24.46,-40.4197,2533,3.984,2504.318,0,0,2533,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.837554360881086
+Oceano Sudeste,2002-11-13 14:52:00,-24.46,-40.4197,2533,3.984,2504.32,2533,2533,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.837554360881086
+Oceano Sudeste,2002-11-13 19:20:00,-24.1592,-40.8739,2331,2.924,2304.952,0,0,2331,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.754481547470384
+Oceano Sudeste,2002-11-13 19:32:18,-24.1592,-40.8739,2331,2.924,2304.95,2331,2331,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.754481547470384
+Oceano Sudeste,2002-11-14 00:07:00,-23.8678,-41.3178,518,1.97,514.983,0,0,518,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,31.251903883165888
+Oceano Sudeste,2002-11-14 00:08:19,-23.8678,-41.3178,513,1.97,514.983,513,513,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,46.242223265455166
+Oceano Sudeste,2002-11-14 04:13:00,-23.58,-41.7611,103,1.994,103.322,0,0,103,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.64439089914137
+Oceano Sudeste,2002-11-14 04:36:21,-23.58,-41.7611,103,1.994,103.322,103,103,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.64439089914137
+Oceano Sudeste,2002-11-14 07:29:00,-23.4367,-41.9908,105,2.978,106.313,0,0,105,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.663439094112068
+Oceano Sudeste,2002-11-14 07:31:19,-23.4367,-41.9908,105,2.978,106.313,105,105,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.663439094112064
+Oceano Sudeste,2002-11-14 10:04:00,-23.2911,-42.2153,94,0.972,93.387,0,0,94,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.55387689160054
+Oceano Sudeste,2002-11-14 10:18:41,-23.2911,-42.2153,94,0.972,93.387,94,94,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.55387689160054
+Oceano Sudeste,2002-11-14 12:58:00,-23.1428,-42.4472,56,2.98,57.617,0,0,56,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,9.04305126783455
+Oceano Sudeste,2002-11-14 13:04:33,-23.1428,-42.4472,56,2.98,57.617,56,56,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,24.04305126783455
+Oceano Sudeste,2002-11-14 15:08:00,-23.0006,-42.6444,28,2.971,29.838,0,0,28,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.367295829986475
+Oceano Sudeste,2002-11-14 15:16:53,-23.0006,-42.6444,28,2.971,29.838,28,28,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.367295829986475
+Oceano Sudeste,2002-11-21 00:26:00,-23.2686,-44.1158,29,1.985,29.796,0,0,29,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.401197381662156
+Oceano Sudeste,2002-11-21 00:28:16,-23.2686,-44.1158,29,1.985,29.796,29,29,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.401197381662154
+Oceano Sudeste,2002-11-21 03:20:00,-23.4083,-43.8903,50,1.982,50.658,0,0,50,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.931825632724326
+Oceano Sudeste,2002-11-21 03:23:59,-23.4081,-43.8903,50,1.982,50.658,50,50,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.931825632724326
+Oceano Sudeste,2002-11-21 05:38:00,-23.5531,-43.68,82,1.983,82.459,0,0,82,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.418840607796596
+Oceano Sudeste,2002-11-21 05:53:59,-23.5531,-43.68,82,1.983,82.459,82,82,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.4188406077966
+Oceano Sudeste,2002-11-21 08:57:00,-23.7008,-43.4514,104,1.987,104.3,0,0,104,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.653960350157522
+Oceano Sudeste,2002-11-21 09:10:54,-23.7008,-43.4514,104,1.987,104.3,104,104,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.653960350157526
+Oceano Sudeste,2002-11-21 11:46:00,-23.8528,-43.2333,106,3.973,108.272,0,0,106,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.672828834461907
+Oceano Sudeste,2002-11-21 11:46:00,-21.5678,-39.6128,244,1.2,264.3,0,0,244,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,30.501258210544727
+Oceano Sudeste,2002-11-21 11:50:05,-23.8528,-43.2333,106,3.973,108.272,106,106,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.6728288344619
+Oceano Sudeste,2002-11-21 14:38:00,-23.9739,-43.01,178,1.975,177.761,0,0,178,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,20.187385805840755
+Oceano Sudeste,2002-11-21 14:46:41,-23.9739,-43.01,178,1.975,177.761,178,178,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,35.187385805840755
+Oceano Sudeste,2002-11-21 19:46:00,-24.2781,-42.56,820,1.891,814.035,0,0,820,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,31.710523109452428
+Oceano Sudeste,2002-11-21 19:49:00,-24.2781,-42.56,820,1.891,814.035,820,820,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,46.710523109452424
+Oceano Sudeste,2002-11-22 00:37:00,-24.5592,-42.1272,1203,1.987,1192.684,0,0,1203,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.093404625868764
+Oceano Sudeste,2002-11-22 00:40:40,-24.5592,-42.1272,1203,1.987,1192.68,1203,1203,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.093404625868764
+Oceano Sudeste,2002-11-22 06:24:00,-24.8339,-41.6847,2021,3.978,2001.131,0,0,2021,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.61184239958042
+Oceano Sudeste,2002-11-22 06:26:02,-24.8339,-41.6847,2021,3.978,2001.13,2021,2021,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.61184239958042
+Oceano Sudeste,2002-11-25 17:52:00,-24.9189,-43.4922,1103,2.975,1094.883,0,0,1103,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,32.00669522683704
+Oceano Sudeste,2002-11-25 17:55:32,-24.9189,-43.4922,1103,2.975,1094.88,1103,1103,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,47.00669522683704
+Oceano Sudeste,2002-11-25 22:29:00,-24.6211,-43.9475,943,1.971,935.732,0,0,943,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,31.8501261661455
+Oceano Sudeste,2002-11-25 23:07:02,-24.6211,-43.9475,943,1.971,935.732,943,943,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,46.8501261661455
+Oceano Sudeste,2002-11-26 03:51:00,-24.3492,-44.3958,135,1.988,135.073,0,0,135,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.912654885736053
+Oceano Sudeste,2002-11-26 04:04:12,-24.3492,-44.3956,135,1.988,135.073,135,135,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.91265488573605
+Oceano Sudeste,2002-11-26 06:49:00,-24.1986,-44.6094,112,0.989,111.254,0,0,112,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,19.72738781871234
+Oceano Sudeste,2002-11-26 07:12:01,-24.1986,-44.6094,112,0.989,111.254,112,112,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,34.727387818712344
+Oceano Sudeste,2002-11-26 09:45:00,-24.0489,-44.8189,59,1.989,59.62,0,0,59,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,9.094344562222101
+Oceano Sudeste,2002-11-26 09:51:15,-24.0489,-44.8189,59,1.989,59.62,59,59,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,24.0943445622221
+Oceano Sudeste,2002-11-26 12:29:00,-23.9111,-45.0439,28,2.982,29.813,0,0,28,0,0,oceano_sudeste.parquet,False,False,True,False,False,False,False,False,8.367295829986475
+Oceano Sudeste,2002-11-26 12:32:41,-23.9111,-45.0439,28,2.982,29.813,28,28,0,0,0,oceano_sudeste.parquet,True,True,False,False,False,True,False,False,23.367295829986475
+Oceano Sul V,2018-04-10 14:19:51,-28.6836,-47.0833,568,8.0,575.0,0,0,568,568,568,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.34388043412633
+Oceano Sul V,2018-04-10 15:20:22,-28.6836,-47.0833,567,7.983,574.002,567,567,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.34212141872115
+Oceano Sul V,2018-04-10 23:18:11,-29.1161,-46.1689,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-04-11 00:18:41,-29.1161,-46.1689,997,5.0,1001.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-04-11 10:47:46,-29.5864,-45.0,1003,5.0,1007.0,0,0,1003,1003,1003,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.911747300251676
+Oceano Sul V,2018-04-11 10:48:08,-29.5861,-45.0,1003,4.998,1007.01,1003,1003,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.911747300251676
+Oceano Sul V,2018-04-11 21:59:05,-29.9994,-43.9028,998,5.0,1002.0,0,0,998,998,998,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.906754778648555
+Oceano Sul V,2018-04-11 21:59:27,-29.9992,-43.9028,998,5.007,1002.01,998,998,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.906754778648555
+Oceano Sul V,2018-04-12 08:36:05,-30.4175,-42.8347,997,6.0,1002.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-04-12 08:36:26,-30.4172,-42.8347,997,5.993,1002.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-04-12 19:38:08,-30.9003,-41.6658,996,5.0,1000.0,0,0,996,996,996,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90475076996184
+Oceano Sul V,2018-04-12 19:38:29,-30.9003,-41.6656,996,4.994,1000.0,996,996,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90475076996184
+Oceano Sul V,2018-04-13 05:48:07,-31.3339,-40.6322,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-04-13 05:48:27,-31.3339,-40.6319,997,4.991,1001.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-04-13 15:27:23,-31.7508,-39.6325,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-04-13 15:27:42,-31.7508,-39.6322,997,4.993,1001.0,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-04-24 13:59:30,-26.4683,-45.9186,568,5.0,572.0,0,0,568,568,568,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.34388043412633
+Oceano Sul V,2018-04-24 13:59:51,-26.4681,-45.9186,568,5.001,571.993,568,568,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.34388043412633
+Oceano Sul V,2018-04-25 00:14:15,-26.9925,-45.0897,999,5.0,1003.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-04-25 00:14:35,-26.9925,-45.0897,999,4.99,1003.01,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-04-25 11:34:31,-27.4008,-44.0836,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-04-25 11:34:50,-27.4006,-44.0836,1000,4.999,1004.01,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-04-25 20:32:00,-27.8997,-43.2825,999,5.0,1003.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-04-25 20:32:19,-27.8997,-43.2825,999,5.007,1003.01,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-04-26 05:55:48,-28.2994,-42.335,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-04-26 05:56:07,-28.2994,-42.335,1000,5.004,1004.01,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-04-26 16:19:32,-28.6983,-41.3019,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-04-26 16:19:50,-28.6981,-41.3019,1000,4.998,1004.01,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-04-27 00:55:14,-29.1647,-40.5333,996,5.0,1000.0,0,0,996,996,996,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90475076996184
+Oceano Sul V,2018-04-27 00:55:32,-29.1647,-40.5331,996,5.003,1000.02,996,996,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90475076996184
+Oceano Sul V,2018-04-27 11:21:32,-29.6344,-39.5483,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-04-27 11:21:49,-29.6344,-39.5483,1000,4.997,1004.02,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-05-05 03:09:50,-30.1422,-36.7381,1594,5.0,1598.0,0,0,1594,1594,1594,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,42.37462901521894
+Oceano Sul V,2018-05-05 10:58:39,-30.1883,-36.7058,1478,5.0,1482.0,0,0,1478,1478,1478,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,42.2991214627108
+Oceano Sul V,2018-05-05 10:58:46,-30.1881,-36.7056,1478,4.995,1482.01,1478,1478,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,47.2991214627108
+Oceano Sul V,2018-05-05 15:54:52,-30.2411,-37.0081,1921,5.0,1925.0,0,0,1921,1921,1921,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,42.56112158953024
+Oceano Sul V,2018-05-05 15:54:58,-30.2411,-37.0081,1921,5.0,1925.02,1921,1921,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,47.56112158953024
+Oceano Sul V,2018-05-06 14:13:57,-30.9153,-39.1156,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-05-06 14:14:02,-30.9153,-39.1156,997,5.002,1001.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-05-06 23:26:29,-30.4183,-39.9994,996,6.0,1001.0,0,0,996,996,996,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90475076996184
+Oceano Sul V,2018-05-06 23:26:33,-30.4181,-39.9994,996,5.988,1001.01,996,996,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90475076996184
+Oceano Sul V,2018-05-07 10:08:26,-30.0,-41.1167,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-05-07 10:08:30,-29.9994,-41.1169,997,5.002,1001.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-05-07 18:20:53,-29.6319,-41.9325,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-05-07 18:20:57,-29.6322,-41.9325,1000,4.992,1004.02,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-05-08 02:57:44,-29.25,-42.8833,999,5.0,1003.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-05-08 02:57:47,-29.2486,-42.8853,999,4.991,1003.02,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-05-08 12:25:25,-28.8325,-43.8703,999,4.0,1002.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-05-08 12:25:28,-28.8325,-43.8703,999,3.991,1002.01,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-05-09 00:41:27,-28.4675,-44.7675,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-05-09 00:41:29,-28.4675,-44.7672,997,4.989,1001.0,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-05-09 09:48:40,-28.05,-45.7583,998,4.0,1001.0,0,0,998,998,998,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.906754778648555
+Oceano Sul V,2018-05-09 09:48:42,-28.0653,-45.7675,998,3.975,1001.01,998,998,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.906754778648555
+Oceano Sul V,2018-05-09 19:41:37,-27.5367,-46.6978,998,5.0,1002.0,0,0,998,998,998,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.906754778648555
+Oceano Sul V,2018-05-09 19:41:39,-27.5367,-46.6981,998,4.998,1002.01,998,998,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.906754778648555
+Oceano Sul V,2018-05-24 01:27:11,-25.8006,-44.9997,1000,6.0,1005.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-05-24 01:27:36,-25.8003,-44.9994,1000,6.0,1005.04,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-05-24 09:23:56,-26.1003,-44.1417,1002,4.0,1005.0,0,0,1002,1002,1002,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.91075078796194
+Oceano Sul V,2018-05-24 09:24:21,-26.1003,-44.1414,1002,3.986,1005.04,1002,1002,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.91075078796194
+Oceano Sul V,2018-05-24 17:57:18,-26.4983,-43.2994,997,5.0,1001.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-05-24 17:57:42,-26.4983,-43.2994,997,5.004,1001.02,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-05-25 01:53:58,-26.8158,-42.585,998,6.0,1003.0,0,0,998,998,998,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.906754778648555
+Oceano Sul V,2018-05-25 01:54:22,-26.8156,-42.5847,998,5.993,1003.01,998,998,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.906754778648555
+Oceano Sul V,2018-05-25 10:54:32,-27.1661,-41.7003,999,5.0,1003.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-05-25 10:54:56,-27.1661,-41.7003,999,5.002,1003.02,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-05-25 18:39:19,-27.5031,-40.9658,997,6.0,1002.0,0,0,997,997,997,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.905753276311465
+Oceano Sul V,2018-05-25 18:39:41,-27.5031,-40.9658,997,5.995,1002.01,997,997,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.905753276311465
+Oceano Sul V,2018-05-26 03:25:46,-27.85,-40.2161,999,6.0,1004.0,0,0,999,999,999,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90775527898214
+Oceano Sul V,2018-05-26 03:26:08,-27.85,-40.2161,999,6.0,1004.01,999,999,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90775527898214
+Oceano Sul V,2018-05-26 11:47:58,-28.1997,-39.5008,998,6.0,1003.0,0,0,998,998,998,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.906754778648555
+Oceano Sul V,2018-05-26 11:48:20,-28.1997,-39.5008,998,5.996,1003.05,998,998,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.906754778648555
+Oceano Sul V,2018-05-26 21:16:04,-28.6328,-38.6,1000,5.0,1004.0,0,0,1000,1000,1000,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,41.90875477931522
+Oceano Sul V,2018-05-26 21:16:25,-28.6328,-38.6,1000,4.993,1004.02,1000,1000,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,46.90875477931522
+Oceano Sul V,2018-05-28 21:04:57,-30.8681,-36.5825,1416,5.0,1420.0,0,0,1416,1416,1416,oceano_sul_v.parquet,False,False,True,True,True,False,False,False,42.25629723969068
+Oceano Sul V,2018-05-28 21:05:16,-30.8681,-36.5825,1416,4.994,1420.01,1416,1416,0,0,0,oceano_sul_v.parquet,True,True,False,False,False,True,False,False,47.25629723969068
